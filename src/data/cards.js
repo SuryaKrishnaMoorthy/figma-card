@@ -1,3 +1,5 @@
+import frame6 from "/images/frame_6.png";
+import frame8 from "/images/frame_8.png";
 const cards = [
   {
     id: 1,
@@ -5,7 +7,7 @@ const cards = [
     price: 680,
     description:
       "Cozy cabin nestled in Iceland's breathtaking landscape, offering stunning views of mountains and Northern Lights.",
-    image: "images/frame_6.png",
+    image: frame6,
     days: 3,
     rating: 4.9,
   },
@@ -15,7 +17,7 @@ const cards = [
     price: 820,
     description:
       "A charming wooden chalet tucked in the snowy Swiss Alps, perfect for ski lovers, cozy evenings, and mountain views.",
-    image: "images/frame_8.png",
+    image: frame8,
     days: 5,
     rating: 4.8,
   },
