@@ -14,7 +14,7 @@ const cards = [
     title: "Swiss Chalet",
     price: 820,
     description:
-      "A charming wooden chalet tucked in the snowy Swiss Alps, perfect for ski lovers.",
+      "A charming wooden chalet tucked in the snowy Swiss Alps, perfect for ski lovers, cozy evenings, and mountain views.",
     image: "/src/assets/images/frame_8.png",
     days: 5,
     rating: 4.8,

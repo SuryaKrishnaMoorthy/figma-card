@@ -1,13 +1,48 @@
-# React + Vite
+# Figma to React: Card UI Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive, accessible, and reusable card UI built with React and Tailwind CSS, based on a Figma design.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View on Netlify](https://your-netlify-link.netlify.app)
 
-## Expanding the ESLint configuration
+## 🧰 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# figma-card
+- React
+- Tailwind CSS
+- Accessibility (ARIA, keyboard nav, semantic HTML)
+- JSON-driven component structure
+
+## 📦 Features
+
+- Responsive grid layout
+- Card components built from a Figma source
+- Line-clamped description
+- Focus and hover interactivity
+- Dynamically mapped via JSON array
+
+## 🎨 Design Reference
+
+[Figma File](https://www.figma.com/design/W3FK7JW28zIrb09HnGiMWE/Modern---Clean-UI-Cards.--Community-?node-id=14-47&t=goYUXbj3Vi3B4Tdl-0)
+
+## 📸 Screenshot
+
+<img src="./src/assets/images/screenshot_web.png" width="600" alt="App Screenshot" />
+
+## 📁 Folder Structure
+
+    src/
+    ├── assets/
+    │ ├── fonts/
+    | └── images/
+    ├── components/
+    │ └── Card.jsx
+    ├── data/
+    │ └── cards.js
+    ├── App.jsx
+    ├── index.css
+    └── main.jsx
+
+## 📝 License
+
+MIT
