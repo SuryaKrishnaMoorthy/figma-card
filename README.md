@@ -4,7 +4,7 @@ This project is a responsive, accessible, and reusable card UI built with React 
 
 ## 🔗 Live Demo
 
-[View on Netlify](https://your-netlify-link.netlify.app)
+[View on Netlify](https://figma-card-ui.netlify.app/)
 
 ## 🧰 Tech Stack
 

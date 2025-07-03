@@ -5,7 +5,7 @@ const cards = [
     price: 680,
     description:
       "Cozy cabin nestled in Iceland's breathtaking landscape, offering stunning views of mountains and Northern Lights.",
-    image: "/src/assets/images/frame_6.png",
+    image: "src/assets/images/frame_6.png",
     days: 3,
     rating: 4.9,
   },
@@ -15,7 +15,7 @@ const cards = [
     price: 820,
     description:
       "A charming wooden chalet tucked in the snowy Swiss Alps, perfect for ski lovers, cozy evenings, and mountain views.",
-    image: "/src/assets/images/frame_8.png",
+    image: "src/assets/images/frame_8.png",
     days: 5,
     rating: 4.8,
   },
